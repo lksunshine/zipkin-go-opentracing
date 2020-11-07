@@ -3,8 +3,8 @@ package zipkintracer
 import (
 	opentracing "github.com/opentracing/opentracing-go"
 
-	"github.com/openzipkin-contrib/zipkin-go-opentracing/flag"
-	"github.com/openzipkin-contrib/zipkin-go-opentracing/types"
+	"github.com/lksunshine/zipkin-go-opentracing/flag"
+	"github.com/lksunshine/zipkin-go-opentracing/types"
 )
 
 type accessorPropagator struct {

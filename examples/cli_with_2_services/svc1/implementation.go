@@ -7,7 +7,7 @@ import (
 
 	opentracing "github.com/opentracing/opentracing-go"
 
-	"github.com/openzipkin-contrib/zipkin-go-opentracing/examples/cli_with_2_services/svc2"
+	"github.com/lksunshine/zipkin-go-opentracing/examples/cli_with_2_services/svc2"
 )
 
 // svc1 is our actual service implementation

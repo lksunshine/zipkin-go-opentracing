@@ -1,8 +1,8 @@
 package zipkintracer
 
 import (
-	"github.com/openzipkin-contrib/zipkin-go-opentracing/flag"
-	"github.com/openzipkin-contrib/zipkin-go-opentracing/types"
+	"github.com/lksunshine/zipkin-go-opentracing/flag"
+	"github.com/lksunshine/zipkin-go-opentracing/types"
 )
 
 // SpanContext holds the basic Span metadata.
